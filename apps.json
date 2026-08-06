@@ -1,0 +1,27 @@
+{
+    "name": "My Source",
+    "identifier": "com.yourname.mysource",
+    "sourceURL": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/apps.json",
+    "apps": [
+        {
+            "name": "My App",
+            "bundleIdentifier": "com.yourname.myapp",
+            "developerName": "Your Name",
+            "subtitle": "A short one-line tagline",
+            "localizedDescription": "A longer description of what your app does.",
+            "iconURL": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/icon.png",
+            "tintColor": "6C7BF2",
+            "size": 10000000,
+            "versions": [
+                {
+                    "version": "1.0.0",
+                    "date": "2026-08-05",
+                    "localizedDescription": "Initial release.",
+                    "downloadURL": "https://github.com/YOUR_USERNAME/YOUR_REPO/releases/download/v1.0.0/MyApp.ipa",
+                    "size": 10000000,
+                    "minOSVersion": "15.0"
+                }
+            ]
+        }
+    ]
+}
