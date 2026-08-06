@@ -4,7 +4,7 @@
     "sourceURL": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/apps.json",
     "apps": [
         {
-            "name": "My App",
+            "name": "YT Music",
             "bundleIdentifier": "com.yourname.myapp",
             "developerName": "Your Name",
             "subtitle": "A short one-line tagline",
@@ -17,7 +17,7 @@
                     "version": "1.0.0",
                     "date": "2026-08-05",
                     "localizedDescription": "Initial release.",
-                    "downloadURL": "https://github.com/YOUR_USERNAME/YOUR_REPO/releases/download/v1.0.0/MyApp.ipa",
+                    "downloadURL": "https://github.com/smashz/iPAs/releases/download/ipa/YouTubeMusic_8.24.2_Ultimate.ipa",
                     "size": 10000000,
                     "minOSVersion": "15.0"
                 }
