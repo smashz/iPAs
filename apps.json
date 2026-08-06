@@ -1,7 +1,7 @@
 {
     "name": "My Source",
     "identifier": "com.yourname.mysource",
-    "sourceURL": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/apps.json",
+    "sourceURL": "https://raw.githubusercontent.com/smashz/iPAs/main/apps.json",
     "apps": [
         {
             "name": "YT Music",
